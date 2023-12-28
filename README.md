@@ -19,10 +19,10 @@ Simple age and gender detector using machine learning
 9. View results
 
 Sample Image output :
-1. [Sample output 1]()
-2. [Sample output 2]()
-3. [Sample output 3]()
-4. [Sample output 4]()
+1. [Sample output 1](https://github.com/ShruRoy/Age-Gender-Detector/blob/main/Output_Image_1.PNG)
+2. [Sample output 2](https://github.com/ShruRoy/Age-Gender-Detector/blob/main/Output_Image_2.PNG)
+3. [Sample output 3](https://github.com/ShruRoy/Age-Gender-Detector/blob/main/Output_Image_3.PNG)
+4. [Sample output 4](https://github.com/ShruRoy/Age-Gender-Detector/blob/main/Output_Image_4.PNG)
     
     
    
